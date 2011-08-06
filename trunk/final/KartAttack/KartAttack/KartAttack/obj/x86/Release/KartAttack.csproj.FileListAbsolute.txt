@@ -1,0 +1,277 @@
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Abstract Kart Map.txt
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\BasicMap4 Map.txt
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Coins Coins Coins Map.txt
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Cross Fire Map.txt
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\X Marks The Spot Map.txt
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Cyclone Map.txt
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Deadlock Map.txt
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Death Race Map.txt
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Double RainbowMap.txt
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Kart List.txt
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Mass X Map.txt
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Monster Map.txt
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Office Party Map.txt
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\The Bomb Map.txt
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\United Karts of Attack Map.txt
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Xpert Map.txt
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\background.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\blank.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\gradient.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\kart_blue_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Walls\wall_debug_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Walls\wall_debug_2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Walls\wall_debug_3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Walls\wall_debug_4.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Walls\wall_debug_5.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\kart_blue_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\kart_green_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\kart_orange_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\kart_turqoise_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Bases\base_blue_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Bases\base_green_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Bases\base_orange_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Bases\base_turquoise_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Weapons\machine_gun_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Weapons\pistol_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Projectiles\projectile_pistol_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\KartAttackBackground.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Walls\wall_debug_6.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Projectiles\projectile_pistol_red.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\AbilityEffects\debug_shield_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\MenuBox1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\MenuBox2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\MenuBox3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\MenuBox4.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\MenuBox5.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\kart_blue_2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\kart_blue_3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\kart_blue_4.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Projectiles\projectile_pistol_red_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Bases\BlueBase_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Bases\BlueBase_2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Bases\BlueBase_3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Bases\GreenBase_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Bases\GreenBase_2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Bases\GreenBase_3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Bases\OrangeBase_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Bases\OrangeBase_2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Bases\OrangeBase_3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Bases\TurquoiseBase_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Bases\TurquoiseBase_2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Bases\TurquoiseBase_3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Abilities\shield_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Coins\Coin_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Coins\Coin_2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Coins\Coin_3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Coins\Coin_4.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Coins\Coin_5.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Coins\Coin_6.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Coins\Coin_7.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\EnergyLine.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\HealthLine.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\linedPaperTexture.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\backgroundNoah.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\GameSelectPlayer1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\GameSelectPlayer2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\GameSelectPlayer3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\GameSelectPlayer4.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\TempCursor.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\OffBox.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\WGameSelectPlayer1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\WGameSelectPlayer2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\WGameSelectPlayer3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\WGameSelectPlayer4.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\BoxLine.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\DownArrow.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\UpArrow.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Projectiles\projectile_rocket_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Weapons\rocket_launcher_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Weapons\shotgun_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Projectiles\projectile_shotgun_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\MapBox1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\MapBox2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\MapBox3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\Basic.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Abilities\health_pack_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Abilities\energy_pack_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Abilities\speed_boost_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\kart_green_2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\kart_green_3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\kart_green_4.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\kart_orange_2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\kart_orange_3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\kart_orange_4.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\kart_turqoise_2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\kart_turqoise_3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\kart_turqoise_4.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Projectiles\projectile_mine_blue_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Projectiles\projectile_mine_blue_2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Projectiles\projectile_mine_blue_3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Projectiles\projectile_mine_blue_4.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Projectiles\projectile_mine_green_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Projectiles\projectile_mine_green_2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Projectiles\projectile_mine_green_3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Projectiles\projectile_mine_green_4.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Projectiles\projectile_mine_orange_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Projectiles\projectile_mine_orange_2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Projectiles\projectile_mine_orange_3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Projectiles\projectile_mine_orange_4.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Projectiles\projectile_mine_turqoise_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Projectiles\projectile_mine_turqoise_2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Projectiles\projectile_mine_turqoise_3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Projectiles\projectile_mine_turqoise_4.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Abilities\mine_layer_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\KartSelectBackground.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\KartSelectListBox.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Abilities\shockwave_generator_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Projectiles\projectile_shockwave_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\KartSelectInactive.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\KartSelectBuySquare.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\Blocks Away.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\Coins Coins Coins.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\Mass X.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Weapons\plasma_gun_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Projectiles\projectile_plasma_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Weapons\stun_gun_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Projectiles\projectile_stun_bullet_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Projectiles\projectile_oil_slick_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Abilities\oil_dropper_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\HelpScreen.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\GameSelectCurrentPlayerBox.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\GameSelectTeamSelectBox.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\ResultScreenBackground.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\DownArrowKartSelect.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\UpArrowKartSelect.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Explosions\bulletBam_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\Spirit_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\Spirit_10.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\Spirit_11.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\Spirit_12.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\Spirit_13.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\Spirit_14.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\Spirit_15.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\Spirit_16.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\Spirit_2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\Spirit_3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\Spirit_4.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\Spirit_5.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\Spirit_6.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\Spirit_7.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\Spirit_8.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\Spirit_9.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\star_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\star_10.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\star_11.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\star_12.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\star_13.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\star_14.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\star_2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\star_3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\star_4.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\star_5.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\star_6.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\star_7.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\star_8.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\star_9.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\bigBackgroundScan.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Coins\bluecoin_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Coins\bluecoin_2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Coins\bluecoin_3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Coins\bluecoin_4.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Coins\bluecoin_5.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Coins\bluecoin_6.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Coins\bluecoin_7.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\AbilityEffects\shield_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\AbilityEffects\shield_2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\AbilityEffects\shield_3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\AbilityEffects\shield_4.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\AbilityEffects\shield_5.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\AbilityEffects\shield_6.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Explosions\blast_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Explosions\blast_10.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Explosions\blast_2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Explosions\blast_3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Explosions\blast_4.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Explosions\blast_5.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Explosions\blast_6.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Explosions\blast_7.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Explosions\blast_8.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Explosions\blast_9.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Explosions\poof_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Explosions\poof_2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Explosions\poof_3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Explosions\poof_4.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Explosions\poof_5.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Explosions\poof_6.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Explosions\poof_7.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Explosions\shock_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Explosions\shock_2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Explosions\shock_3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Explosions\shock_4.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Explosions\stun_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Explosions\stun_2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Explosions\stun_3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Explosions\stun_4.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Explosions\stun_5.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\dust_trail_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\dust_trail_2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\dust_trail_3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Karts\dust_trail_4.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\Abstract Kart.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\Cross Fire.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\Cyclone.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\Deadlock.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\Death Race.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\Double Rainbow.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\Monster.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\Office Party.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\The Bomb.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\United Karts of Attack.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\X Marks The Spot.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu\Xpert.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Projectiles\projectile_laser_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Weapons\burst_laser_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\AbilityEffects\laser_sight_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\menufont.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\gamefont.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\Menu.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\MainMenuEntries.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\NumericUpDownFont.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\countdown.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\KartDescriptionFont.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\ResultScreenTitle.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\SoundEffects\coin_deposit_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\SoundEffects\coin_collide_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\SoundEffects\pistol_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\SoundEffects\rocket_hit_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\SoundEffects\rocket_launcher_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\SoundEffects\shotgun_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\SoundEffects\vroom_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\SoundEffects\mine_hit_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\SoundEffects\shockwave_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\SoundEffects\plasma_gun_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\SoundEffects\stun_gun_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\SoundEffects\oil_splat_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\SoundEffects\shield_hit_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\SoundEffects\laser_fire_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\SoundEffects\laser_charge_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\BackgroundMusic\bg_track_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\BackgroundMusic\bg_track_2.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\BackgroundMusic\bg_track_3.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\BackgroundMusic\bg_track_4.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\BackgroundMusic\bg_track_5.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\BackgroundMusic\bg_track_6.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\BackgroundMusic\menu_music_1.xnb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\BackgroundMusic\bg_track_1.wma
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\BackgroundMusic\bg_track_2.wma
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\BackgroundMusic\bg_track_3.wma
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\BackgroundMusic\bg_track_4.wma
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\BackgroundMusic\bg_track_5.wma
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\BackgroundMusic\bg_track_6.wma
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\Content\BackgroundMusic\menu_music_1.wma
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\KartAttack.exe
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\bin\x86\Release\KartAttack.pdb
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\obj\x86\Release\ResolveAssemblyReference.cache
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\obj\x86\Release\KartAttack.exe
+E:\494_showcase_stuff\final\final\KartAttack\KartAttack\KartAttack\obj\x86\Release\KartAttack.pdb

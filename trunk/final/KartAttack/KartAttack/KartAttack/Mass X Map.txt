@@ -1,0 +1,27 @@
+Wall|Black|591|267|32|4|4
+Wall|Black|357|267|32|4|4
+Wall|Black|128|266|32|4|4
+Wall|Black|810|271|32|4|4
+Wall|Black|1052|273|32|4|4
+Wall|Black|594|0|32|4|4
+Wall|Black|596|591|32|4|4
+Base 1|Turquoise|152|48|32|2|2
+Base 2|Orange|141|561|32|2|2
+Base 3|Blue|1082|50|32|2|2
+Base 4|Green|1096|570|32|2|2
+Coin|Gold|644|191|16|1|1
+Coin|Gold|526|324|16|1|1
+Coin|Gold|759|327|16|1|1
+Coin|Gold|993|328|16|1|1
+Coin|Gold|301|326|16|1|1
+Coin|Gold|645|481|16|1|1
+Coin|Gold|407|91|16|1|1
+Coin|Gold|869|75|16|1|1
+Coin|Gold|42|326|16|1|1
+Coin|Gold|1230|331|16|1|1
+Coin|Gold|409|181|16|1|1
+Coin|Gold|871|167|16|1|1
+Coin|Gold|411|479|16|1|1
+Coin|Gold|867|478|16|1|1
+Coin|Gold|411|630|16|1|1
+Coin|Gold|872|633|16|1|1

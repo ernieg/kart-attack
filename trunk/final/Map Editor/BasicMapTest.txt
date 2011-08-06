@@ -1,0 +1,9 @@
+Wall|Black|409|72|24|20|1
+Wall|Black|401|603|24|20|1
+Wall|Black|406|320|24|20|1
+Wall|Black|1104|208|24|1|10
+Wall|Black|138|212|24|1|10
+Base1|Green|201|497|24|5|5
+Base2|Blue|214|56|24|5|5
+Base3|Red|950|61|24|5|5
+Base4|Orange|947|497|24|5|5

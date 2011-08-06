@@ -1,0 +1,2276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2010-11-03T20:38:24.9369161-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\blank.xnb</Output>
+      <Time>2010-11-03T20:38:24.9429165-04:00</Time>
+    </Item>
+    <Item>
+      <Source>gradient.png</Source>
+      <Name>gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\gradient.xnb</Output>
+      <Time>2010-11-03T20:38:24.9329159-04:00</Time>
+    </Item>
+    <Item>
+      <Source>kart_blue_1.png</Source>
+      <Name>kart_blue_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\kart_blue_1.xnb</Output>
+      <Time>2010-11-21T12:50:31.974604-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Walls\wall_debug_1.png</Source>
+      <Name>Walls\wall_debug_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Walls\wall_debug_1.xnb</Output>
+      <Time>2010-11-16T10:22:42.2391711-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Walls\wall_debug_2.png</Source>
+      <Name>Walls\wall_debug_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Walls\wall_debug_2.xnb</Output>
+      <Time>2010-11-16T10:23:23.287519-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Walls\wall_debug_3.png</Source>
+      <Name>Walls\wall_debug_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Walls\wall_debug_3.xnb</Output>
+      <Time>2010-11-16T10:23:23.2985196-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Walls\wall_debug_4.png</Source>
+      <Name>Walls\wall_debug_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Walls\wall_debug_4.xnb</Output>
+      <Time>2010-11-16T10:23:23.3035199-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Walls\wall_debug_5.png</Source>
+      <Name>Walls\wall_debug_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Walls\wall_debug_5.xnb</Output>
+      <Time>2010-11-16T10:23:23.3095202-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\kart_blue_1.png</Source>
+      <Name>Karts\kart_blue_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_blue_1.xnb</Output>
+      <Time>2010-12-05T15:08:06.2549571-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\kart_green_1.png</Source>
+      <Name>Karts\kart_green_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_green_1.xnb</Output>
+      <Time>2010-12-05T15:37:41.6285027-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\kart_orange_1.png</Source>
+      <Name>Karts\kart_orange_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_orange_1.xnb</Output>
+      <Time>2010-12-05T15:55:21.1241024-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\kart_turqoise_1.png</Source>
+      <Name>Karts\kart_turqoise_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_turqoise_1.xnb</Output>
+      <Time>2010-12-05T16:16:17.0689383-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bases\base_blue_1.png</Source>
+      <Name>Bases\base_blue_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\base_blue_1.xnb</Output>
+      <Time>2010-11-16T12:04:34.2337572-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bases\base_green_1.png</Source>
+      <Name>Bases\base_green_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\base_green_1.xnb</Output>
+      <Time>2010-11-16T12:04:34.2397576-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bases\base_orange_1.png</Source>
+      <Name>Bases\base_orange_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\base_orange_1.xnb</Output>
+      <Time>2010-11-16T12:04:34.2457579-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bases\base_turquoise_1.png</Source>
+      <Name>Bases\base_turquoise_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\base_turquoise_1.xnb</Output>
+      <Time>2010-11-16T12:04:34.2507582-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\machine_gun_1.png</Source>
+      <Name>Weapons\machine_gun_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Weapons\machine_gun_1.xnb</Output>
+      <Time>2010-11-16T12:05:21.0754364-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\pistol_1.png</Source>
+      <Name>Weapons\pistol_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Weapons\pistol_1.xnb</Output>
+      <Time>2010-11-16T12:05:21.0794366-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\projectile_pistol_1.png</Source>
+      <Name>Projectiles\projectile_pistol_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_pistol_1.xnb</Output>
+      <Time>2010-12-02T13:24:02.4049692-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Coins\coin_1.png</Source>
+      <Name>Coins\coin_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\coin_1.xnb</Output>
+      <Time>2010-11-22T21:11:24.7602002-05:00</Time>
+    </Item>
+    <Item>
+      <Source>KartAttackBackground.png</Source>
+      <Name>KartAttackBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\KartAttackBackground.xnb</Output>
+      <Time>2010-11-21T12:50:31.9806044-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Walls\wall_debug_6.png</Source>
+      <Name>Walls\wall_debug_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Walls\wall_debug_6.xnb</Output>
+      <Time>2010-11-21T12:50:25.7712492-05:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont.spritefont</Source>
+      <Name>menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\menufont.xnb</Output>
+      <Time>2010-12-07T22:17:11.4388699-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gamefont.spritefont</Source>
+      <Name>gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\gamefont.xnb</Output>
+      <Time>2010-11-03T20:38:24.9459166-04:00</Time>
+    </Item>
+    <Item>
+      <Source>AbilityEffects\debug_shield_1.png</Source>
+      <Name>AbilityEffects\debug_shield_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\AbilityEffects\debug_shield_1.xnb</Output>
+      <Time>2010-11-21T16:44:14.9236708-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\projectile_pistol_red.png</Source>
+      <Name>Projectiles\projectile_pistol_red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_pistol_red.xnb</Output>
+      <Time>2010-11-21T19:38:27.0805-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\MenuBox1.png</Source>
+      <Name>Menu\MenuBox1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\MenuBox1.xnb</Output>
+      <Time>2010-11-21T20:22:46.4246058-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\MenuBox2.png</Source>
+      <Name>Menu\MenuBox2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\MenuBox2.xnb</Output>
+      <Time>2010-11-21T20:22:46.427606-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\MenuBox3.png</Source>
+      <Name>Menu\MenuBox3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\MenuBox3.xnb</Output>
+      <Time>2010-11-21T20:22:46.4316062-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\MenuBox4.png</Source>
+      <Name>Menu\MenuBox4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\MenuBox4.xnb</Output>
+      <Time>2010-11-21T20:22:46.4366065-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\MenuBox5.png</Source>
+      <Name>Menu\MenuBox5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\MenuBox5.xnb</Output>
+      <Time>2010-11-21T20:22:46.4406067-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu.spritefont</Source>
+      <Name>Menu</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu.xnb</Output>
+      <Time>2010-11-21T20:22:46.4646081-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MainMenuEntries.spritefont</Source>
+      <Name>MainMenuEntries</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\MainMenuEntries.xnb</Output>
+      <Time>2010-11-21T20:56:58.8209961-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\kart_blue_2.png</Source>
+      <Name>Karts\kart_blue_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_blue_2.xnb</Output>
+      <Time>2010-12-05T15:16:02.3621889-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\kart_blue_3.png</Source>
+      <Name>Karts\kart_blue_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_blue_3.xnb</Output>
+      <Time>2010-12-05T15:22:07.3060625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\kart_blue_4.png</Source>
+      <Name>Karts\kart_blue_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_blue_4.xnb</Output>
+      <Time>2010-12-05T15:24:32.7213798-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\projectile_pistol_red_1.png</Source>
+      <Name>Projectiles\projectile_pistol_red_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_pistol_red_1.xnb</Output>
+      <Time>2010-11-21T16:40:26.5316075-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Abilities\shield_1.png</Source>
+      <Name>Abilities\shield_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Abilities\shield_1.xnb</Output>
+      <Time>2010-11-21T22:37:37.5753931-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bases\BlueBase_1.png</Source>
+      <Name>Bases\BlueBase_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\BlueBase_1.xnb</Output>
+      <Time>2010-11-22T21:11:23.7961451-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bases\BlueBase_2.png</Source>
+      <Name>Bases\BlueBase_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\BlueBase_2.xnb</Output>
+      <Time>2010-11-22T21:11:23.8161463-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bases\BlueBase_3.png</Source>
+      <Name>Bases\BlueBase_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\BlueBase_3.xnb</Output>
+      <Time>2010-11-22T21:11:23.8201465-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bases\GreenBase_1.png</Source>
+      <Name>Bases\GreenBase_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\GreenBase_1.xnb</Output>
+      <Time>2010-11-22T21:11:23.8501482-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bases\GreenBase_2.png</Source>
+      <Name>Bases\GreenBase_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\GreenBase_2.xnb</Output>
+      <Time>2010-11-22T21:11:23.8561485-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bases\GreenBase_3.png</Source>
+      <Name>Bases\GreenBase_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\GreenBase_3.xnb</Output>
+      <Time>2010-11-22T21:11:23.8631489-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bases\OrangeBase_1.png</Source>
+      <Name>Bases\OrangeBase_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\OrangeBase_1.xnb</Output>
+      <Time>2010-11-22T21:11:23.8661491-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bases\OrangeBase_2.png</Source>
+      <Name>Bases\OrangeBase_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\OrangeBase_2.xnb</Output>
+      <Time>2010-11-22T21:11:23.8691493-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bases\OrangeBase_3.png</Source>
+      <Name>Bases\OrangeBase_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\OrangeBase_3.xnb</Output>
+      <Time>2010-11-22T21:11:23.8731495-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bases\TurquoiseBase_1.png</Source>
+      <Name>Bases\TurquoiseBase_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\TurquoiseBase_1.xnb</Output>
+      <Time>2010-11-22T21:11:23.847148-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bases\TurquoiseBase_2.png</Source>
+      <Name>Bases\TurquoiseBase_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\TurquoiseBase_2.xnb</Output>
+      <Time>2010-11-22T21:11:23.8531484-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Bases\TurquoiseBase_3.png</Source>
+      <Name>Bases\TurquoiseBase_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\TurquoiseBase_3.xnb</Output>
+      <Time>2010-11-22T21:11:23.8601488-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Coins\Coin_2.png</Source>
+      <Name>Coins\Coin_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\Coin_2.xnb</Output>
+      <Time>2010-11-22T21:11:24.7632004-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Coins\Coin_3.png</Source>
+      <Name>Coins\Coin_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\Coin_3.xnb</Output>
+      <Time>2010-11-22T21:11:24.7772012-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Coins\Coin_4.png</Source>
+      <Name>Coins\Coin_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\Coin_4.xnb</Output>
+      <Time>2010-11-22T21:11:24.7832016-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Coins\Coin_5.png</Source>
+      <Name>Coins\Coin_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\Coin_5.xnb</Output>
+      <Time>2010-11-22T21:11:24.7271984-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Coins\Coin_6.png</Source>
+      <Name>Coins\Coin_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\Coin_6.xnb</Output>
+      <Time>2010-11-22T21:11:24.7301985-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Coins\Coin_7.png</Source>
+      <Name>Coins\Coin_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\Coin_7.xnb</Output>
+      <Time>2010-11-22T21:11:24.7562-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EnergyLine.png</Source>
+      <Name>EnergyLine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\EnergyLine.xnb</Output>
+      <Time>2010-11-22T21:11:24.8112032-05:00</Time>
+    </Item>
+    <Item>
+      <Source>HealthLine.png</Source>
+      <Name>HealthLine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\HealthLine.xnb</Output>
+      <Time>2010-11-22T21:11:24.8192036-05:00</Time>
+    </Item>
+    <Item>
+      <Source>linedPaperTexture.jpg</Source>
+      <Name>linedPaperTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\linedPaperTexture.xnb</Output>
+      <Time>2010-11-22T21:11:24.8072029-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\coin_collide_1.wav</Source>
+      <Name>SoundEffects\coin_collide_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\coin_collide_1.xnb</Output>
+      <Time>2010-11-22T21:55:20.7599708-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\coin_deposit_1.wav</Source>
+      <Name>SoundEffects\coin_deposit_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\coin_deposit_1.xnb</Output>
+      <Time>2010-11-22T22:14:35.7480323-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\pistol_1.wav</Source>
+      <Name>SoundEffects\pistol_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\pistol_1.xnb</Output>
+      <Time>2010-11-22T22:29:46.965151-05:00</Time>
+    </Item>
+    <Item>
+      <Source>backgroundNoah.png</Source>
+      <Name>backgroundNoah</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\backgroundNoah.xnb</Output>
+      <Time>2010-12-05T20:11:58.6127883-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\GameSelectPlayer1.png</Source>
+      <Name>Menu\GameSelectPlayer1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\GameSelectPlayer1.xnb</Output>
+      <Time>2010-11-28T21:51:33.7690734-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\GameSelectPlayer2.png</Source>
+      <Name>Menu\GameSelectPlayer2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\GameSelectPlayer2.xnb</Output>
+      <Time>2010-11-28T21:51:33.7740737-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\GameSelectPlayer3.png</Source>
+      <Name>Menu\GameSelectPlayer3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\GameSelectPlayer3.xnb</Output>
+      <Time>2010-11-28T21:51:33.7790739-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\GameSelectPlayer4.png</Source>
+      <Name>Menu\GameSelectPlayer4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\GameSelectPlayer4.xnb</Output>
+      <Time>2010-11-28T21:51:33.7850743-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\TempCursor.png</Source>
+      <Name>Menu\TempCursor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\TempCursor.xnb</Output>
+      <Time>2010-12-09T19:47:28.6199881-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\OffBox.png</Source>
+      <Name>Menu\OffBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\OffBox.xnb</Output>
+      <Time>2010-12-01T16:57:43.8616564-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\WGameSelectPlayer1.png</Source>
+      <Name>Menu\WGameSelectPlayer1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\WGameSelectPlayer1.xnb</Output>
+      <Time>2010-12-01T16:57:43.8346549-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\WGameSelectPlayer2.png</Source>
+      <Name>Menu\WGameSelectPlayer2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\WGameSelectPlayer2.xnb</Output>
+      <Time>2010-12-01T16:57:43.8396552-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\WGameSelectPlayer3.png</Source>
+      <Name>Menu\WGameSelectPlayer3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\WGameSelectPlayer3.xnb</Output>
+      <Time>2010-12-01T16:57:43.8476556-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\WGameSelectPlayer4.png</Source>
+      <Name>Menu\WGameSelectPlayer4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\WGameSelectPlayer4.xnb</Output>
+      <Time>2010-12-01T16:57:43.8516558-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\BoxLine.png</Source>
+      <Name>Menu\BoxLine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\BoxLine.xnb</Output>
+      <Time>2010-11-28T21:51:33.7470721-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\DownArrow.png</Source>
+      <Name>Menu\DownArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\DownArrow.xnb</Output>
+      <Time>2010-12-01T16:57:43.8556561-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\UpArrow.png</Source>
+      <Name>Menu\UpArrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\UpArrow.xnb</Output>
+      <Time>2010-12-01T16:57:43.8446554-05:00</Time>
+    </Item>
+    <Item>
+      <Source>NumericUpDownFont.spritefont</Source>
+      <Name>NumericUpDownFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\NumericUpDownFont.xnb</Output>
+      <Time>2010-12-01T16:57:43.8786574-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\projectile_rocket_1.png</Source>
+      <Name>Projectiles\projectile_rocket_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_rocket_1.xnb</Output>
+      <Time>2010-12-02T10:00:36.4378278-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\rocket_launcher_1.png</Source>
+      <Name>Weapons\rocket_launcher_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Weapons\rocket_launcher_1.xnb</Output>
+      <Time>2010-12-02T09:32:41.0380004-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\rocket_hit_1.wav</Source>
+      <Name>SoundEffects\rocket_hit_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\rocket_hit_1.xnb</Output>
+      <Time>2010-12-02T10:28:19.7059613-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\rocket_launcher_1.wav</Source>
+      <Name>SoundEffects\rocket_launcher_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\rocket_launcher_1.xnb</Output>
+      <Time>2010-11-09T22:47:16.7459441-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\shotgun_1.png</Source>
+      <Name>Weapons\shotgun_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Weapons\shotgun_1.xnb</Output>
+      <Time>2010-12-02T21:38:48.8569371-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\projectile_shotgun_1.png</Source>
+      <Name>Projectiles\projectile_shotgun_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_shotgun_1.xnb</Output>
+      <Time>2010-12-02T22:06:45.5828403-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\shotgun_1.wav</Source>
+      <Name>SoundEffects\shotgun_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\shotgun_1.xnb</Output>
+      <Time>2010-12-02T22:12:07.79927-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\MapBox1.png</Source>
+      <Name>Menu\MapBox1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\MapBox1.xnb</Output>
+      <Time>2010-12-03T20:37:04.2851087-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\MapBox2.png</Source>
+      <Name>Menu\MapBox2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\MapBox2.xnb</Output>
+      <Time>2010-12-03T20:37:04.3151104-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\MapBox3.png</Source>
+      <Name>Menu\MapBox3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\MapBox3.xnb</Output>
+      <Time>2010-12-03T20:37:04.3211107-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Abilities\health_pack_1.png</Source>
+      <Name>Abilities\health_pack_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Abilities\health_pack_1.xnb</Output>
+      <Time>2010-12-04T22:35:32.396794-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Abilities\energy_pack_1.png</Source>
+      <Name>Abilities\energy_pack_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Abilities\energy_pack_1.xnb</Output>
+      <Time>2010-12-04T23:09:46.0882584-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Abilities\speed_boost_1.png</Source>
+      <Name>Abilities\speed_boost_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Abilities\speed_boost_1.xnb</Output>
+      <Time>2010-12-05T12:05:53.8236578-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\vroom_1.wav</Source>
+      <Name>SoundEffects\vroom_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\vroom_1.xnb</Output>
+      <Time>2010-12-05T14:22:48.2214945-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\kart_green_2.png</Source>
+      <Name>Karts\kart_green_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_green_2.xnb</Output>
+      <Time>2010-12-05T15:40:32.1892582-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\kart_green_3.png</Source>
+      <Name>Karts\kart_green_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_green_3.xnb</Output>
+      <Time>2010-12-05T15:44:30.6738987-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\kart_green_4.png</Source>
+      <Name>Karts\kart_green_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_green_4.xnb</Output>
+      <Time>2010-12-05T15:46:35.7220511-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\kart_orange_2.png</Source>
+      <Name>Karts\kart_orange_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_orange_2.xnb</Output>
+      <Time>2010-12-05T15:57:47.2894625-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\kart_orange_3.png</Source>
+      <Name>Karts\kart_orange_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_orange_3.xnb</Output>
+      <Time>2010-12-05T15:59:53.2356662-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\kart_orange_4.png</Source>
+      <Name>Karts\kart_orange_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_orange_4.xnb</Output>
+      <Time>2010-12-05T16:03:20.2495068-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\kart_turqoise_2.png</Source>
+      <Name>Karts\kart_turqoise_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_turqoise_2.xnb</Output>
+      <Time>2010-12-05T16:20:48.6144698-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\kart_turqoise_3.png</Source>
+      <Name>Karts\kart_turqoise_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_turqoise_3.xnb</Output>
+      <Time>2010-12-05T16:22:39.1707933-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\kart_turqoise_4.png</Source>
+      <Name>Karts\kart_turqoise_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_turqoise_4.xnb</Output>
+      <Time>2010-12-05T16:24:48.0161628-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\projectile_mine_blue_1.png</Source>
+      <Name>Projectiles\projectile_mine_blue_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_blue_1.xnb</Output>
+      <Time>2010-12-05T21:19:38.1099783-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\projectile_mine_blue_2.png</Source>
+      <Name>Projectiles\projectile_mine_blue_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_blue_2.xnb</Output>
+      <Time>2010-12-05T21:19:38.1099783-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\projectile_mine_blue_3.png</Source>
+      <Name>Projectiles\projectile_mine_blue_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_blue_3.xnb</Output>
+      <Time>2010-12-05T21:19:38.1099783-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\projectile_mine_blue_4.png</Source>
+      <Name>Projectiles\projectile_mine_blue_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_blue_4.xnb</Output>
+      <Time>2010-12-05T20:35:33.8027326-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\projectile_mine_green_1.png</Source>
+      <Name>Projectiles\projectile_mine_green_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_green_1.xnb</Output>
+      <Time>2010-12-05T21:23:27.7391123-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\projectile_mine_green_2.png</Source>
+      <Name>Projectiles\projectile_mine_green_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_green_2.xnb</Output>
+      <Time>2010-12-05T21:23:27.7391123-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\projectile_mine_green_3.png</Source>
+      <Name>Projectiles\projectile_mine_green_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_green_3.xnb</Output>
+      <Time>2010-12-05T21:23:27.7391123-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\projectile_mine_green_4.png</Source>
+      <Name>Projectiles\projectile_mine_green_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_green_4.xnb</Output>
+      <Time>2010-12-05T20:35:33.8027326-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\projectile_mine_orange_1.png</Source>
+      <Name>Projectiles\projectile_mine_orange_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_orange_1.xnb</Output>
+      <Time>2010-12-05T21:24:57.6322539-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\projectile_mine_orange_2.png</Source>
+      <Name>Projectiles\projectile_mine_orange_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_orange_2.xnb</Output>
+      <Time>2010-12-05T21:24:57.6322539-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\projectile_mine_orange_3.png</Source>
+      <Name>Projectiles\projectile_mine_orange_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_orange_3.xnb</Output>
+      <Time>2010-12-05T21:24:57.6322539-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\projectile_mine_orange_4.png</Source>
+      <Name>Projectiles\projectile_mine_orange_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_orange_4.xnb</Output>
+      <Time>2010-12-05T20:35:33.8027326-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\projectile_mine_turqoise_1.png</Source>
+      <Name>Projectiles\projectile_mine_turqoise_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_turqoise_1.xnb</Output>
+      <Time>2010-12-05T21:26:05.7181482-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\projectile_mine_turqoise_2.png</Source>
+      <Name>Projectiles\projectile_mine_turqoise_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_turqoise_2.xnb</Output>
+      <Time>2010-12-05T21:26:05.7181482-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\projectile_mine_turqoise_3.png</Source>
+      <Name>Projectiles\projectile_mine_turqoise_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_turqoise_3.xnb</Output>
+      <Time>2010-12-05T21:26:05.7181482-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\projectile_mine_turqoise_4.png</Source>
+      <Name>Projectiles\projectile_mine_turqoise_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_turqoise_4.xnb</Output>
+      <Time>2010-12-05T20:35:33.8027326-05:00</Time>
+    </Item>
+    <Item>
+      <Source>countdown.spritefont</Source>
+      <Name>countdown</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\countdown.xnb</Output>
+      <Time>2010-12-05T21:50:33.9061238-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Abilities\mine_layer_1.png</Source>
+      <Name>Abilities\mine_layer_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Abilities\mine_layer_1.xnb</Output>
+      <Time>2010-12-05T20:38:50.9350079-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\mine_hit_1.wav</Source>
+      <Name>SoundEffects\mine_hit_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\mine_hit_1.xnb</Output>
+      <Time>2010-12-05T22:04:08.8817377-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Abilities\shockwave_generator_1.png</Source>
+      <Name>Abilities\shockwave_generator_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Abilities\shockwave_generator_1.xnb</Output>
+      <Time>2010-12-06T11:59:43.5859619-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\projectile_shockwave_1.png</Source>
+      <Name>Projectiles\projectile_shockwave_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_shockwave_1.xnb</Output>
+      <Time>2010-12-06T11:57:43.826112-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\shockwave_1.wav</Source>
+      <Name>SoundEffects\shockwave_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\shockwave_1.xnb</Output>
+      <Time>2010-12-06T12:30:08.8923635-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\plasma_gun_1.png</Source>
+      <Name>Weapons\plasma_gun_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Weapons\plasma_gun_1.xnb</Output>
+      <Time>2010-12-07T11:42:36.3030967-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\projectile_plasma_1.png</Source>
+      <Name>Projectiles\projectile_plasma_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_plasma_1.xnb</Output>
+      <Time>2010-12-07T11:48:36.3946927-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\plasma_gun_1.wav</Source>
+      <Name>SoundEffects\plasma_gun_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\plasma_gun_1.xnb</Output>
+      <Time>2010-12-06T21:47:38.1775531-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\stun_gun_1.png</Source>
+      <Name>Weapons\stun_gun_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Weapons\stun_gun_1.xnb</Output>
+      <Time>2010-12-06T21:31:02.4406002-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\projectile_stun_bullet_1.png</Source>
+      <Name>Projectiles\projectile_stun_bullet_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_stun_bullet_1.xnb</Output>
+      <Time>2010-12-06T21:35:08.7506884-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\stun_gun_1.wav</Source>
+      <Name>SoundEffects\stun_gun_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\stun_gun_1.xnb</Output>
+      <Time>2010-12-07T11:49:45.6566543-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Basic.PNG</Source>
+      <Name>Menu\Basic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\Basic.xnb</Output>
+      <Time>2010-12-14T17:18:39.1716116-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\KartSelectBackground.png</Source>
+      <Name>Menu\KartSelectBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\KartSelectBackground.xnb</Output>
+      <Time>2010-12-07T17:40:59.4610069-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\KartSelectListBox.png</Source>
+      <Name>Menu\KartSelectListBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\KartSelectListBox.xnb</Output>
+      <Time>2010-12-07T22:17:11.389867-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\KartSelectInactive.png</Source>
+      <Name>Menu\KartSelectInactive</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\KartSelectInactive.xnb</Output>
+      <Time>2010-12-07T17:40:59.4940088-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\KartSelectBuySquare.png</Source>
+      <Name>Menu\KartSelectBuySquare</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\KartSelectBuySquare.xnb</Output>
+      <Time>2010-12-07T17:40:59.4660072-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Blocks Away.PNG</Source>
+      <Name>Menu\Blocks Away</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\Blocks Away.xnb</Output>
+      <Time>2010-12-07T17:40:59.4180045-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Coins Coins Coins.PNG</Source>
+      <Name>Menu\Coins Coins Coins</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\Coins Coins Coins.xnb</Output>
+      <Time>2010-12-14T17:18:39.0986075-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Mass X.PNG</Source>
+      <Name>Menu\Mass X</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\Mass X.xnb</Output>
+      <Time>2010-12-14T17:18:39.0276034-05:00</Time>
+    </Item>
+    <Item>
+      <Source>KartDescriptionFont.spritefont</Source>
+      <Name>KartDescriptionFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\KartDescriptionFont.xnb</Output>
+      <Time>2010-12-07T17:40:59.51401-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\projectile_oil_slick_1.png</Source>
+      <Name>Projectiles\projectile_oil_slick_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_oil_slick_1.xnb</Output>
+      <Time>2010-12-07T18:16:11.9448341-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Abilities\oil_dropper_1.png</Source>
+      <Name>Abilities\oil_dropper_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Abilities\oil_dropper_1.xnb</Output>
+      <Time>2010-12-07T18:10:45.1551428-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\oil_splat_1.wav</Source>
+      <Name>SoundEffects\oil_splat_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\oil_splat_1.xnb</Output>
+      <Time>2010-12-07T18:18:30.0177314-05:00</Time>
+    </Item>
+    <Item>
+      <Source>HelpScreen.png</Source>
+      <Name>HelpScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\HelpScreen.xnb</Output>
+      <Time>2010-12-07T21:02:50.1947013-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\GameSelectCurrentPlayerBox.png</Source>
+      <Name>Menu\GameSelectCurrentPlayerBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\GameSelectCurrentPlayerBox.xnb</Output>
+      <Time>2010-12-07T22:17:11.3828666-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\GameSelectTeamSelectBox.png</Source>
+      <Name>Menu\GameSelectTeamSelectBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\GameSelectTeamSelectBox.xnb</Output>
+      <Time>2010-12-07T22:17:11.4188687-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\ResultScreenBackground.png</Source>
+      <Name>Menu\ResultScreenBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\ResultScreenBackground.xnb</Output>
+      <Time>2010-12-09T19:47:28.6019871-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\DownArrowKartSelect.png</Source>
+      <Name>Menu\DownArrowKartSelect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\DownArrowKartSelect.xnb</Output>
+      <Time>2010-12-09T19:47:28.6259885-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\UpArrowKartSelect.png</Source>
+      <Name>Menu\UpArrowKartSelect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\UpArrowKartSelect.xnb</Output>
+      <Time>2010-12-09T19:47:28.6569903-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\bulletBam_1.png</Source>
+      <Name>Explosions\bulletBam_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\bulletBam_1.xnb</Output>
+      <Time>2010-12-09T19:47:17.3013408-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\Spirit_1.png</Source>
+      <Name>Karts\Spirit_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_1.xnb</Output>
+      <Time>2010-12-09T19:47:18.9444347-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\Spirit_10.png</Source>
+      <Name>Karts\Spirit_10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_10.xnb</Output>
+      <Time>2010-12-09T19:47:18.843429-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\Spirit_11.png</Source>
+      <Name>Karts\Spirit_11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_11.xnb</Output>
+      <Time>2010-12-09T19:47:18.8534295-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\Spirit_12.png</Source>
+      <Name>Karts\Spirit_12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_12.xnb</Output>
+      <Time>2010-12-09T19:47:18.8644302-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\Spirit_13.png</Source>
+      <Name>Karts\Spirit_13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_13.xnb</Output>
+      <Time>2010-12-09T19:47:18.8754308-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\Spirit_14.png</Source>
+      <Name>Karts\Spirit_14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_14.xnb</Output>
+      <Time>2010-12-09T19:47:18.8854314-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\Spirit_15.png</Source>
+      <Name>Karts\Spirit_15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_15.xnb</Output>
+      <Time>2010-12-09T19:47:18.8914317-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\Spirit_16.png</Source>
+      <Name>Karts\Spirit_16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_16.xnb</Output>
+      <Time>2010-12-09T19:47:18.896432-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\Spirit_2.png</Source>
+      <Name>Karts\Spirit_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_2.xnb</Output>
+      <Time>2010-12-09T19:47:18.949435-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\Spirit_3.png</Source>
+      <Name>Karts\Spirit_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_3.xnb</Output>
+      <Time>2010-12-09T19:47:18.7904259-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\Spirit_4.png</Source>
+      <Name>Karts\Spirit_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_4.xnb</Output>
+      <Time>2010-12-09T19:47:18.8034267-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\Spirit_5.png</Source>
+      <Name>Karts\Spirit_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_5.xnb</Output>
+      <Time>2010-12-09T19:47:18.8074269-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\Spirit_6.png</Source>
+      <Name>Karts\Spirit_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_6.xnb</Output>
+      <Time>2010-12-09T19:47:18.8124272-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\Spirit_7.png</Source>
+      <Name>Karts\Spirit_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_7.xnb</Output>
+      <Time>2010-12-09T19:47:18.8164274-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\Spirit_8.png</Source>
+      <Name>Karts\Spirit_8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_8.xnb</Output>
+      <Time>2010-12-09T19:47:18.8304282-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\Spirit_9.png</Source>
+      <Name>Karts\Spirit_9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_9.xnb</Output>
+      <Time>2010-12-09T19:47:18.8344284-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\star_1.png</Source>
+      <Name>Karts\star_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_1.xnb</Output>
+      <Time>2010-12-09T19:47:18.9004322-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\star_10.png</Source>
+      <Name>Karts\star_10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_10.xnb</Output>
+      <Time>2010-12-09T19:47:18.8384287-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\star_11.png</Source>
+      <Name>Karts\star_11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_11.xnb</Output>
+      <Time>2010-12-09T19:47:18.8484292-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\star_12.png</Source>
+      <Name>Karts\star_12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_12.xnb</Output>
+      <Time>2010-12-09T19:47:18.8584298-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\star_13.png</Source>
+      <Name>Karts\star_13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_13.xnb</Output>
+      <Time>2010-12-09T19:47:18.8694304-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\star_14.png</Source>
+      <Name>Karts\star_14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_14.xnb</Output>
+      <Time>2010-12-09T19:47:18.8814311-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\star_2.png</Source>
+      <Name>Karts\star_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_2.xnb</Output>
+      <Time>2010-12-09T19:47:18.9064326-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\star_3.png</Source>
+      <Name>Karts\star_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_3.xnb</Output>
+      <Time>2010-12-09T19:47:18.9104328-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\star_4.png</Source>
+      <Name>Karts\star_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_4.xnb</Output>
+      <Time>2010-12-09T19:47:18.9154331-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\star_5.png</Source>
+      <Name>Karts\star_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_5.xnb</Output>
+      <Time>2010-12-09T19:47:18.9204334-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\star_6.png</Source>
+      <Name>Karts\star_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_6.xnb</Output>
+      <Time>2010-12-09T19:47:18.9244336-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\star_7.png</Source>
+      <Name>Karts\star_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_7.xnb</Output>
+      <Time>2010-12-09T19:47:18.9294339-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\star_8.png</Source>
+      <Name>Karts\star_8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_8.xnb</Output>
+      <Time>2010-12-09T19:47:18.9344342-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\star_9.png</Source>
+      <Name>Karts\star_9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_9.xnb</Output>
+      <Time>2010-12-09T19:47:18.9394344-05:00</Time>
+    </Item>
+    <Item>
+      <Source>bigBackgroundScan.bmp</Source>
+      <Name>bigBackgroundScan</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\bigBackgroundScan.xnb</Output>
+      <Time>2010-12-11T11:11:37.9925923-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Coins\bluecoin_1.png</Source>
+      <Name>Coins\bluecoin_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\bluecoin_1.xnb</Output>
+      <Time>2010-12-12T18:25:34.5143937-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Coins\bluecoin_2.png</Source>
+      <Name>Coins\bluecoin_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\bluecoin_2.xnb</Output>
+      <Time>2010-12-12T18:25:34.5373951-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Coins\bluecoin_3.png</Source>
+      <Name>Coins\bluecoin_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\bluecoin_3.xnb</Output>
+      <Time>2010-12-12T18:25:34.5423953-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Coins\bluecoin_4.png</Source>
+      <Name>Coins\bluecoin_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\bluecoin_4.xnb</Output>
+      <Time>2010-12-12T18:25:34.5473956-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Coins\bluecoin_5.png</Source>
+      <Name>Coins\bluecoin_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\bluecoin_5.xnb</Output>
+      <Time>2010-12-12T18:25:34.5523959-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Coins\bluecoin_6.png</Source>
+      <Name>Coins\bluecoin_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\bluecoin_6.xnb</Output>
+      <Time>2010-12-12T18:25:34.5573962-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Coins\bluecoin_7.png</Source>
+      <Name>Coins\bluecoin_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\bluecoin_7.xnb</Output>
+      <Time>2010-12-12T18:25:34.5633965-05:00</Time>
+    </Item>
+    <Item>
+      <Source>AbilityEffects\shield_1.png</Source>
+      <Name>AbilityEffects\shield_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\AbilityEffects\shield_1.xnb</Output>
+      <Time>2010-12-12T17:41:13.6602016-05:00</Time>
+    </Item>
+    <Item>
+      <Source>AbilityEffects\shield_2.png</Source>
+      <Name>AbilityEffects\shield_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\AbilityEffects\shield_2.xnb</Output>
+      <Time>2010-12-12T17:56:48.3786644-05:00</Time>
+    </Item>
+    <Item>
+      <Source>AbilityEffects\shield_3.png</Source>
+      <Name>AbilityEffects\shield_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\AbilityEffects\shield_3.xnb</Output>
+      <Time>2010-12-12T17:59:44.2217221-05:00</Time>
+    </Item>
+    <Item>
+      <Source>AbilityEffects\shield_4.png</Source>
+      <Name>AbilityEffects\shield_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\AbilityEffects\shield_4.xnb</Output>
+      <Time>2010-12-12T18:02:58.7648493-05:00</Time>
+    </Item>
+    <Item>
+      <Source>AbilityEffects\shield_5.png</Source>
+      <Name>AbilityEffects\shield_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\AbilityEffects\shield_5.xnb</Output>
+      <Time>2010-12-12T18:06:15.484101-05:00</Time>
+    </Item>
+    <Item>
+      <Source>AbilityEffects\shield_6.png</Source>
+      <Name>AbilityEffects\shield_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\AbilityEffects\shield_6.xnb</Output>
+      <Time>2010-12-12T18:08:17.2610662-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\blast_1.png</Source>
+      <Name>Explosions\blast_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\blast_1.xnb</Output>
+      <Time>2010-12-13T16:59:13.3201295-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\blast_10.png</Source>
+      <Name>Explosions\blast_10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\blast_10.xnb</Output>
+      <Time>2010-12-13T17:03:21.5899433-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\blast_2.png</Source>
+      <Name>Explosions\blast_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\blast_2.xnb</Output>
+      <Time>2010-12-13T16:59:30.6007726-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\blast_3.png</Source>
+      <Name>Explosions\blast_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\blast_3.xnb</Output>
+      <Time>2010-12-13T16:59:53.5603439-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\blast_4.png</Source>
+      <Name>Explosions\blast_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\blast_4.xnb</Output>
+      <Time>2010-12-13T17:00:17.4004481-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\blast_5.png</Source>
+      <Name>Explosions\blast_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\blast_5.xnb</Output>
+      <Time>2010-12-13T17:00:40.5576083-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\blast_6.png</Source>
+      <Name>Explosions\blast_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\blast_6.xnb</Output>
+      <Time>2010-12-13T17:01:09.9878382-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\blast_7.png</Source>
+      <Name>Explosions\blast_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\blast_7.xnb</Output>
+      <Time>2010-12-13T17:01:32.5533913-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\blast_8.png</Source>
+      <Name>Explosions\blast_8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\blast_8.xnb</Output>
+      <Time>2010-12-13T17:02:15.2445644-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\blast_9.png</Source>
+      <Name>Explosions\blast_9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\blast_9.xnb</Output>
+      <Time>2010-12-13T17:02:50.8772349-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\poof_1.png</Source>
+      <Name>Explosions\poof_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\poof_1.xnb</Output>
+      <Time>2010-12-13T17:03:46.7641626-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\poof_2.png</Source>
+      <Name>Explosions\poof_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\poof_2.xnb</Output>
+      <Time>2010-12-13T17:04:14.5909475-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\poof_3.png</Source>
+      <Name>Explosions\poof_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\poof_3.xnb</Output>
+      <Time>2010-12-13T17:04:44.6721974-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\poof_4.png</Source>
+      <Name>Explosions\poof_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\poof_4.xnb</Output>
+      <Time>2010-12-13T17:05:15.6967124-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\poof_5.png</Source>
+      <Name>Explosions\poof_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\poof_5.xnb</Output>
+      <Time>2010-12-13T17:05:51.4571234-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\poof_6.png</Source>
+      <Name>Explosions\poof_6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\poof_6.xnb</Output>
+      <Time>2010-12-13T17:06:24.1111239-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\poof_7.png</Source>
+      <Name>Explosions\poof_7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\poof_7.xnb</Output>
+      <Time>2010-12-13T17:06:36.794168-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\shock_1.png</Source>
+      <Name>Explosions\shock_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\shock_1.xnb</Output>
+      <Time>2010-12-13T17:06:51.2025048-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\shock_2.png</Source>
+      <Name>Explosions\shock_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\shock_2.xnb</Output>
+      <Time>2010-12-13T17:07:00.5433707-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\shock_3.png</Source>
+      <Name>Explosions\shock_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\shock_3.xnb</Output>
+      <Time>2010-12-13T17:07:11.7121473-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\shock_4.png</Source>
+      <Name>Explosions\shock_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\shock_4.xnb</Output>
+      <Time>2010-12-13T17:07:20.3011295-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\stun_1.png</Source>
+      <Name>Explosions\stun_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\stun_1.xnb</Output>
+      <Time>2010-12-13T17:07:28.6601419-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\stun_2.png</Source>
+      <Name>Explosions\stun_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\stun_2.xnb</Output>
+      <Time>2010-12-13T17:07:41.5355504-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\stun_3.png</Source>
+      <Name>Explosions\stun_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\stun_3.xnb</Output>
+      <Time>2010-12-13T17:08:03.764912-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\stun_4.png</Source>
+      <Name>Explosions\stun_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\stun_4.xnb</Output>
+      <Time>2010-12-13T17:08:17.8136377-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosions\stun_5.png</Source>
+      <Name>Explosions\stun_5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\stun_5.xnb</Output>
+      <Time>2010-12-13T17:08:27.0718608-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\dust_trail_1.png</Source>
+      <Name>Karts\dust_trail_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\dust_trail_1.xnb</Output>
+      <Time>2010-12-13T18:14:40.7753166-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\dust_trail_2.png</Source>
+      <Name>Karts\dust_trail_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\dust_trail_2.xnb</Output>
+      <Time>2010-12-13T18:14:11.8726635-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\dust_trail_3.png</Source>
+      <Name>Karts\dust_trail_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\dust_trail_3.xnb</Output>
+      <Time>2010-12-13T18:13:43.6650501-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Karts\dust_trail_4.png</Source>
+      <Name>Karts\dust_trail_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\dust_trail_4.xnb</Output>
+      <Time>2010-12-13T18:13:11.0641854-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Abstract Kart.PNG</Source>
+      <Name>Menu\Abstract Kart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\Abstract Kart.xnb</Output>
+      <Time>2010-12-14T17:18:39.1896127-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Cross Fire.PNG</Source>
+      <Name>Menu\Cross Fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\Cross Fire.xnb</Output>
+      <Time>2010-12-14T17:18:39.0586052-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Cyclone.PNG</Source>
+      <Name>Menu\Cyclone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\Cyclone.xnb</Output>
+      <Time>2010-12-14T17:18:38.898596-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Deadlock.PNG</Source>
+      <Name>Menu\Deadlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\Deadlock.xnb</Output>
+      <Time>2010-12-14T17:18:39.1166085-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Death Race.PNG</Source>
+      <Name>Menu\Death Race</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\Death Race.xnb</Output>
+      <Time>2010-12-14T17:18:38.9615996-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Double Rainbow.PNG</Source>
+      <Name>Menu\Double Rainbow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\Double Rainbow.xnb</Output>
+      <Time>2010-12-14T17:18:38.915597-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Monster.PNG</Source>
+      <Name>Menu\Monster</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\Monster.xnb</Output>
+      <Time>2010-12-14T17:18:39.0096024-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Office Party.PNG</Source>
+      <Name>Menu\Office Party</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\Office Party.xnb</Output>
+      <Time>2010-12-14T17:18:39.1356096-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\The Bomb.PNG</Source>
+      <Name>Menu\The Bomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\The Bomb.xnb</Output>
+      <Time>2010-12-14T17:18:38.9806007-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\United Karts of Attack.PNG</Source>
+      <Name>Menu\United Karts of Attack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\United Karts of Attack.xnb</Output>
+      <Time>2010-12-14T17:18:38.9315979-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\X Marks The Spot.PNG</Source>
+      <Name>Menu\X Marks The Spot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\X Marks The Spot.xnb</Output>
+      <Time>2010-12-14T17:18:39.1536106-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\Xpert.PNG</Source>
+      <Name>Menu\Xpert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\Xpert.xnb</Output>
+      <Time>2010-12-14T17:18:39.073606-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Projectiles\projectile_laser_1.png</Source>
+      <Name>Projectiles\projectile_laser_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_laser_1.xnb</Output>
+      <Time>2010-12-14T21:27:53.5629539-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Weapons\burst_laser_1.png</Source>
+      <Name>Weapons\burst_laser_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Weapons\burst_laser_1.xnb</Output>
+      <Time>2010-12-14T21:21:42.9037534-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ResultScreenTitle.spritefont</Source>
+      <Name>ResultScreenTitle</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\ResultScreenTitle.xnb</Output>
+      <Time>2010-12-13T16:54:00.345657-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\shield_hit_1.wav</Source>
+      <Name>SoundEffects\shield_hit_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\shield_hit_1.xnb</Output>
+      <Time>2010-12-12T17:06:02.0804261-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\laser_fire_1.wav</Source>
+      <Name>SoundEffects\laser_fire_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\laser_fire_1.xnb</Output>
+      <Time>2010-12-14T22:02:05.8693391-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BackgroundMusic\bg_track_1.mp3</Source>
+      <Name>BackgroundMusic\bg_track_1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\bg_track_1.xnb</Output>
+      <Extra>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\bg_track_1.wma</Extra>
+      <Time>2009-07-31T02:00:24-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BackgroundMusic\bg_track_2.mp3</Source>
+      <Name>BackgroundMusic\bg_track_2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\bg_track_2.xnb</Output>
+      <Extra>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\bg_track_2.wma</Extra>
+      <Time>2009-07-31T02:02:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BackgroundMusic\bg_track_3.mp3</Source>
+      <Name>BackgroundMusic\bg_track_3</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\bg_track_3.xnb</Output>
+      <Extra>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\bg_track_3.wma</Extra>
+      <Time>2009-07-31T02:03:42-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BackgroundMusic\bg_track_4.mp3</Source>
+      <Name>BackgroundMusic\bg_track_4</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\bg_track_4.xnb</Output>
+      <Extra>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\bg_track_4.wma</Extra>
+      <Time>2009-07-31T02:04:12-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BackgroundMusic\bg_track_5.mp3</Source>
+      <Name>BackgroundMusic\bg_track_5</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\bg_track_5.xnb</Output>
+      <Extra>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\bg_track_5.wma</Extra>
+      <Time>2009-10-15T01:22:20-04:00</Time>
+    </Item>
+    <Item>
+      <Source>BackgroundMusic\bg_track_6.mp3</Source>
+      <Name>BackgroundMusic\bg_track_6</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\bg_track_6.xnb</Output>
+      <Extra>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\bg_track_6.wma</Extra>
+      <Time>2010-12-14T18:11:10.3868508-05:00</Time>
+    </Item>
+    <Item>
+      <Source>BackgroundMusic\menu_music_1.mp3</Source>
+      <Name>BackgroundMusic\menu_music_1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\menu_music_1.xnb</Output>
+      <Extra>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\menu_music_1.wma</Extra>
+      <Time>2010-12-14T18:44:42.0489113-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\laser_charge_1.wav</Source>
+      <Name>SoundEffects\laser_charge_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\laser_charge_1.xnb</Output>
+      <Time>2010-12-14T22:59:15.0374763-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttackContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttackContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-11-01T18:09:44.8554734-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

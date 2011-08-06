@@ -1,0 +1,3 @@
+C:\Users\nrjudson\Documents\Visual Studio 2010\Projects\Game\KartAttack\KartAttack\KartAttackContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttackContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttackContent\obj\x86\Debug\ResolveAssemblyReference.cache
