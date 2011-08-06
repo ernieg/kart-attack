@@ -1,0 +1,51 @@
+Noob|0|.10|Pistol,Pistol|Shield
+Mine Learner|0|.10|Pistol,Pistol|Mine Layer
+Runner|0|.095|Pistol,Pistol|Boost
+Medic|0|.10|Pistol,Pistol|Health Pack
+Shocky|0|.10|Pistol,Pistol|Shockwave
+Greasy|0|.10|Pistol,Pistol|OilSlick
+Noob S|20|.12|Pistol,Pistol|Shield
+Mine Learner S|20|.12|Pistol,Pistol|Mine Layer
+Runner S|20|.12|Pistol,Pistol|Boost
+Medic S|20|.12|Pistol,Pistol|Health Pack
+Shocky S|20|.12|Pistol,Pistol|Shockwave
+Greasy S|20|.12|Pistol,Pistol|OilSlick
+Stun N' Run|60|.10|Stun Gun,Pistol|Boost
+Rocket Man|60|.11|Rocket,Pistol|OilSlick
+Energy Sucker|60|.12|Plasma Gun,Pistol|Shockwave
+Shotty|60|.11|Shotgun,Pistol|Shield
+Mini Gunner|60|.10|MiniGun,Pistol|Energy Pack
+Spartan|60|.10|Laser,Pistol|OilSlick
+Plasma Stunner|120|.12|Stun Gun,Plasma Gun|Mine Layer
+Plasma Rifle|120|.12|MiniGun,Plasma Gun|Shield
+Fire Specialist|120|.12|Rocket,Plasma Gun|Shield
+Energy Drainer|120|.12|Plasma Gun,Plasma Gun|Shockwave
+Buck Wild|120|.12|Shotgun,Plasma Gun|Mine Layer
+Medusa|120|.12|Stun Gun,Stun Gun|Shockwave
+Firing Squad|120|.12|MiniGun,Stun Gun|Health Pack
+SR6|120|.12|Rocket,Stun Gun|Shield
+Stun Lead|120|.12|Shotgun,Stun Gun|Energy Pack
+Spartan X|120|.12|Laser,MiniGun|OilSlick
+Speeder|150|.16|Pistol,Pistol|Mine Layer
+Zombie Hunter|150|.11|Shotgun,Shotgun|Boost
+Spartan Y|180|.12|Laser,Shotgun|Energy Pack
+Slow Heavy|200|.11|MiniGun,MiniGun|Shield
+Double Stunner|200|.13|Stun Gun,Stun Gun|Energy Pack
+Double Plasmer|200|.13|Plasma Gun,Plasma Gun|Energy Pack
+Zombie Slayer|200|.12|Shotgun,Shotgun|Mine Layer
+Double Dragon|200|.12|Rocket,Rocket|Boost
+Repeller|260|.13|Rocket,MiniGun|Shockwave
+Future Soldier|260|.14|Rocket,Plasma Gun|Mine Layer
+Black Hole|260|.15|Stun Gun,Plasma Gun|Energy Pack
+Mini Stunner|260|.14|Stun Gun,MiniGun|Mine Layer
+Spartan Z|260|.14|Laser,Stun Gun|OilSlick
+Triple Threat|260|.14|Shotgun,Stun Gun|Boost
+Hit N' Run|260|.14|Rocket,Rocket|Shield
+Knockout|260|.14|Rocket,Stun Gun|Shield
+Scorpion|260|.14|Rocket,MiniGun|Health Pack
+AutoShotty|280|.14|Shotgun,Shotgun|Energy Pack
+Ultramega|320|.16|MiniGun,MiniGun|Shield
+Rocketeer|320|.16|Rocket,Rocket|Energy Pack
+Repellant|320|.16|Rocket,MiniGun|Shockwave
+PrittyKitty|320|.16|MiniGun,MiniGun|Energy Pack
+Spartan 117|320|.16|Laser,Shotgun|Shield

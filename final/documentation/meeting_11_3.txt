@@ -1,0 +1,117 @@
+Kart Attack Meeting 11/3
+------------------------
+
+Weapons
+-------
+
+(1)	Pistol
+(1)	Minigun
+(1)	Boxing glove puncher
+(1)	Rockets
+(2)	Shockwave
+(2)	"Spartan" laser
+(2)	"Lightning gun" laser
+(2)	Grenade launcher
+(2)	Shotgun
+
+Abilities
+---------
+
+(1)	Shields
+(1)	Mines
+(1)	Speed boost
+(1)	Health pack
+(1)	Energy regeneration pack
+(2)	Turret
+(2)	Regeneration spot (placed on the ground)
+(2)	Regeneration beam
+(2)	Oil slick
+
+Classes
+-------
+
+
+
+Game
+----
+draw()
+update()
+--------
+list<Kart> karts
+list<Projectile> projectiles
+list<Wall> map
+
+
+
+GameObject
+----------
+draw()
+update()
+bool collide(GameObject)
+------------------------
+Point2f position
+float velocity
+float angle
+Rectangle BoundingBox
+
+
+
+Kart : GameObject
+-----------------
+draw()
+update()
+--------
+List<Ability>
+List<Attribute>
+int numCoins
+float health
+float energy
+Color color
+
+
+
+Attribute (friend of Kart)
+--------------------------
+update(Kart&)
+-------------
+Time time_started
+Time time_to_last
+
+
+
+Projectile : GameObject
+-----------------------
+draw()
+update()
+--------
+Color source
+float damage
+
+
+
+Ability
+-------
+Projectile activate(Kart&)
+deactivate()
+------------
+float energy_penalty
+float speed_penalty
+int level
+
+
+
+Wall : GameObject
+-----------------
+Wall(x,y,pos)
+draw()
+------
+string wallType
+list< pair<position,type> >
+
+
+
+Coin : Game_Object
+------------------
+draw()
+update()
+

@@ -1,0 +1,321 @@
+C:\Users\nrjudson\Documents\Visual Studio 2010\Projects\Game\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\background.xnb
+C:\Users\nrjudson\Documents\Visual Studio 2010\Projects\Game\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\blank.xnb
+C:\Users\nrjudson\Documents\Visual Studio 2010\Projects\Game\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\gradient.xnb
+C:\Users\nrjudson\Documents\Visual Studio 2010\Projects\Game\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\menufont.xnb
+C:\Users\nrjudson\Documents\Visual Studio 2010\Projects\Game\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\nrjudson\Documents\Visual Studio 2010\Projects\Game\KartAttack\KartAttack\KartAttack\bin\x86\Debug\KartAttack.exe
+C:\Users\nrjudson\Documents\Visual Studio 2010\Projects\Game\KartAttack\KartAttack\KartAttack\bin\x86\Debug\KartAttack.pdb
+C:\Users\nrjudson\Documents\Visual Studio 2010\Projects\Game\KartAttack\KartAttack\KartAttack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nrjudson\Documents\Visual Studio 2010\Projects\Game\KartAttack\KartAttack\KartAttack\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\nrjudson\Documents\Visual Studio 2010\Projects\Game\KartAttack\KartAttack\KartAttack\obj\x86\Debug\KartAttack.exe
+C:\Users\nrjudson\Documents\Visual Studio 2010\Projects\Game\KartAttack\KartAttack\KartAttack\obj\x86\Debug\KartAttack.pdb
+C:\Users\nrjudson\Documents\Visual Studio 2010\Projects\Game\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\kart_blue_1.xnb
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\background.xnb
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\blank.xnb
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\gradient.xnb
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\kart_blue_1.xnb
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Walls\wall_debug_1.xnb
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Walls\wall_debug_2.xnb
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Walls\wall_debug_3.xnb
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Walls\wall_debug_4.xnb
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Walls\wall_debug_5.xnb
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_blue_1.xnb
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_green_1.xnb
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_orange_1.xnb
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_turqoise_1.xnb
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\base_blue_1.xnb
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\base_green_1.xnb
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\base_orange_1.xnb
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\base_turquoise_1.xnb
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Weapons\machine_gun_1.xnb
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Weapons\pistol_1.xnb
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_pistol_1.xnb
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\coin_1.xnb
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\menufont.xnb
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\gamefont.xnb
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\KartAttack.exe
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\KartAttack.pdb
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\obj\x86\Debug\KartAttack.exe
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\obj\x86\Debug\KartAttack.pdb
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\BasicMapTest.txt
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\KartAttackBackground.xnb
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\BasicMAp2.txt
+C:\Brians files\494 Project\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Walls\wall_debug_6.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\background.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\blank.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\gradient.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\kart_blue_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Walls\wall_debug_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Walls\wall_debug_2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Walls\wall_debug_3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Walls\wall_debug_4.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Walls\wall_debug_5.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_blue_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_green_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_orange_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_turqoise_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\base_blue_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\base_green_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\base_orange_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\base_turquoise_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Weapons\machine_gun_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Weapons\pistol_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_pistol_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\coin_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\KartAttackBackground.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Walls\wall_debug_6.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\menufont.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\KartAttack.exe
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\KartAttack.pdb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\obj\x86\Debug\KartAttack.exe
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\obj\x86\Debug\KartAttack.pdb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\AbilityEffects\debug_shield_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_pistol_red.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\MenuBox1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\MenuBox2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\MenuBox3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\MenuBox4.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\MenuBox5.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\MainMenuEntries.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_blue_2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_blue_3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_blue_4.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_pistol_red_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Abilities\shield_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\BlueBase_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\BlueBase_2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\BlueBase_3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\GreenBase_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\GreenBase_2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\GreenBase_3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\OrangeBase_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\OrangeBase_2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\OrangeBase_3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\TurquoiseBase_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\TurquoiseBase_2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Bases\TurquoiseBase_3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\Coin_2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\Coin_3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\Coin_4.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\Coin_5.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\Coin_6.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\Coin_7.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\EnergyLine.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\HealthLine.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\linedPaperTexture.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\coin_collide_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\coin_deposit_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\pistol_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\backgroundNoah.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\GameSelectPlayer1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\GameSelectPlayer2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\GameSelectPlayer3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\GameSelectPlayer4.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\TempCursor.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\OffBox.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\WGameSelectPlayer1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\WGameSelectPlayer2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\WGameSelectPlayer3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\WGameSelectPlayer4.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\BoxLine.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\DownArrow.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\UpArrow.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\NumericUpDownFont.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_rocket_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Weapons\rocket_launcher_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\rocket_hit_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\rocket_launcher_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Weapons\shotgun_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_shotgun_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\shotgun_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\BasicMap4 Map.txt
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Coins Coins Coins Map.txt
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Mass X Map.txt
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\MapBox1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\MapBox2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\MapBox3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Abilities\health_pack_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Abilities\energy_pack_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Abilities\speed_boost_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\vroom_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_green_2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_green_3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_green_4.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_orange_2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_orange_3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_orange_4.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_turqoise_2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_turqoise_3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\kart_turqoise_4.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_blue_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_blue_2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_blue_3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_blue_4.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_green_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_green_2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_green_3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_green_4.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_orange_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_orange_2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_orange_3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_orange_4.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_turqoise_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_turqoise_2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_turqoise_3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_mine_turqoise_4.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\countdown.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Abilities\mine_layer_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\mine_hit_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Abilities\shockwave_generator_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_shockwave_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\shockwave_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Weapons\plasma_gun_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_plasma_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\plasma_gun_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Weapons\stun_gun_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_stun_bullet_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\stun_gun_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Kart List.txt
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\Basic.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\KartSelectBackground.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\KartSelectListBox.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\KartSelectInactive.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\KartSelectBuySquare.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\Blocks Away.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\Coins Coins Coins.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\Mass X.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\KartDescriptionFont.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_oil_slick_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Abilities\oil_dropper_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\oil_splat_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\HelpScreen.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\GameSelectCurrentPlayerBox.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\GameSelectTeamSelectBox.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\ResultScreenBackground.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Abstract Kart Map.txt
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Cross Fire Map.txt
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\X Marks The Spot Map.txt
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Cyclone Map.txt
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Deadlock Map.txt
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Death Race Map.txt
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Double RainbowMap.txt
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Monster Map.txt
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Office Party Map.txt
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\The Bomb Map.txt
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\United Karts of Attack Map.txt
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Xpert Map.txt
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\DownArrowKartSelect.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\UpArrowKartSelect.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\bulletBam_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_10.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_11.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_12.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_13.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_14.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_15.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_16.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_4.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_5.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_6.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_7.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_8.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\Spirit_9.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_10.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_11.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_12.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_13.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_14.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_4.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_5.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_6.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_7.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_8.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\star_9.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\bigBackgroundScan.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\bluecoin_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\bluecoin_2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\bluecoin_3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\bluecoin_4.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\bluecoin_5.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\bluecoin_6.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Coins\bluecoin_7.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\AbilityEffects\shield_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\AbilityEffects\shield_2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\AbilityEffects\shield_3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\AbilityEffects\shield_4.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\AbilityEffects\shield_5.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\AbilityEffects\shield_6.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\blast_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\blast_10.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\blast_2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\blast_3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\blast_4.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\blast_5.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\blast_6.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\blast_7.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\blast_8.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\blast_9.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\poof_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\poof_2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\poof_3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\poof_4.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\poof_5.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\poof_6.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\poof_7.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\shock_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\shock_2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\shock_3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\shock_4.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\stun_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\stun_2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\stun_3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\stun_4.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Explosions\stun_5.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\dust_trail_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\dust_trail_2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\dust_trail_3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Karts\dust_trail_4.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\Abstract Kart.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\Cross Fire.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\Cyclone.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\Deadlock.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\Death Race.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\Double Rainbow.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\Monster.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\Office Party.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\The Bomb.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\United Karts of Attack.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\X Marks The Spot.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Menu\Xpert.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Projectiles\projectile_laser_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\Weapons\burst_laser_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\ResultScreenTitle.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\shield_hit_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\laser_fire_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\bg_track_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\bg_track_2.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\bg_track_3.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\bg_track_4.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\bg_track_5.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\bg_track_6.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\menu_music_1.xnb
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\bg_track_1.wma
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\bg_track_2.wma
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\bg_track_3.wma
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\bg_track_4.wma
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\bg_track_5.wma
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\bg_track_6.wma
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\BackgroundMusic\menu_music_1.wma
+C:\Users\ErnieG\Desktop\Fall 2010\EECS_494\svn_local\final\KartAttack\KartAttack\KartAttack\bin\x86\Debug\Content\SoundEffects\laser_charge_1.xnb

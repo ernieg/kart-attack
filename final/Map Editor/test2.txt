@@ -1,0 +1,16 @@
+Wall|Black|292|137|32|1|1
+Wall|Black|816|220|32|1|1
+Wall|Black|515|414|32|1|1
+Wall|Black|407|440|32|1|1
+Wall|Black|410|180|32|1|1
+Wall|Black|442|174|32|1|1
+Wall|Black|517|204|32|1|1
+Wall|Black|643|314|32|1|1
+Wall|Black|649|319|32|1|1
+Wall|Green|704|233|32|1|1
+Wall|Green|597|96|32|1|1
+Wall|Green|537|110|32|1|1
+Wall|Green|385|282|32|1|1
+Wall|Green|338|255|32|1|1
+Wall|Green|170|176|32|1|1
+Wall|Green|153|162|32|1|1

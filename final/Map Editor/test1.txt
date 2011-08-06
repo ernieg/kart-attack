@@ -1,0 +1,9 @@
+Wall|Black|251|100|32|1|1
+Wall|Black|858|308|32|1|1
+Wall|Black|448|419|32|1|1
+Wall|Black|501|162|32|1|1
+Wall|Black|597|246|32|1|1
+Wall|Black|636|378|32|1|1
+Wall|Black|356|293|32|1|1
+Wall|Black|257|399|32|1|1
+Wall|Black|195|199|32|1|1

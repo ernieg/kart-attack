@@ -1,0 +1,17 @@
+F:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+F:\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\MapEditor.Properties.Resources.resources
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\Map Editor.csproj.GenerateResource.Cache
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+F:\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\MapEditor.MapEditorForm.resources
+C:\Brians files\494 Project\Map Editor\obj\x86\Debug\WindowsFormsApplication2.exe
+C:\Brians files\494 Project\Map Editor\obj\x86\Debug\WindowsFormsApplication2.pdb
+C:\Brians files\494 Project\Map Editor\bin\Debug\WindowsFormsApplication2.exe
+C:\Brians files\494 Project\Map Editor\bin\Debug\WindowsFormsApplication2.pdb
+C:\Brians files\494 Project\Map Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Brians files\494 Project\Map Editor\obj\x86\Debug\MapEditor.MapEditorForm.resources
+C:\Brians files\494 Project\Map Editor\obj\x86\Debug\MapEditor.Properties.Resources.resources
+C:\Brians files\494 Project\Map Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Brians files\494 Project\Map Editor\obj\x86\Debug\GenerateResource.write.1.tlog
